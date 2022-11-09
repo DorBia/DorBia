@@ -67,7 +67,7 @@ I am a Junior Full Stack Developer/Web Developer <img src="https://media.giphy.c
 - Week 10: <a href="https://github.com/DorBia/tech-test-car-park">Car Park (3.5h Tech Test) 🚗</a>
 - Week 11: <a href="https://github.com/DorBia/Parks-And-Rec-full-stack">Parks and Recreation Series (Full Stack) 📺</a>
 
-- Weeks 8-12: <a href="https://github.com/nology-tech/ecf-cms">Group Project🧍‍♀️🧍🧍‍♂️</a>
+- Weeks 7-12: <a href="https://github.com/nology-tech/ecf-cms">Group Project🧍‍♀️🧍🧍‍♂️</a>
 
 ---
 
