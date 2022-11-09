@@ -36,6 +36,7 @@ I am a Junior Full Stack Developer/Web Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" title="Ant Design" alt="Ant Design" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
@@ -50,6 +51,23 @@ I am a Junior Full Stack Developer/Web Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="50" height="50"/>
 </div>
+
+---
+
+### :fire: My Projects:
+
+- Week 2: <a href="https://github.com/DorBia/calculator-js">Calculator in JavaScript 🧮</a>
+- Week 3: <a href="https://github.com/DorBia/quiz-js">Quiz App ✅ ❌</a>
+- Week 4: <a href="https://github.com/DorBia/yahtzee-js">Yahtzee Game 🎲</a>
+- Week 4/5: <a href="https://github.com/DorBia/morse-code-translator-js">Morse Code Translator 🆘</a>
+- Week 5: <a href="https://github.com/DorBia/ticket-tracker">Ticket Tracker ➕➖</a>
+- Week 6: <a href="https://github.com/DorBia/punk-api">Punk API 🍻</a>
+- Week 8: <a href="https://github.com/DorBia/hangman">Hangman Game 🔠</a>
+- Week 9: <a href="https://github.com/DorBia/java-card-game">Snap Game 🃏</a>
+- Week 10: <a href="https://github.com/DorBia/tech-test-car-park">Car Park (3.5h Tech Test) 🚗</a>
+- Week 11: <a href="https://github.com/DorBia/Parks-And-Rec-full-stack">Parks and Recreation Series (Full Stack) 📺</a>
+
+- Weeks 8-12: <a href="https://github.com/nology-tech/ecf-cms">Group Project🧍‍♀️🧍🧍‍♂️</a>
 
 ---
 
