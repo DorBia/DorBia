@@ -16,7 +16,7 @@
 
 ### :woman_technologist: About Me:
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland, based in Brimingham, UK.
+I am a Junior Full Stack Developer/Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland, based in Brimingham, UK.
 
 - 🔭 I’m currently working on react weather/productive morning app, that uses a location to gather time and weather.
 - 🌱 I’m currently learning Firebase, MongoDB, Next.js, Typescript.
