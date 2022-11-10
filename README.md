@@ -22,7 +22,7 @@ I am a Junior Full Stack Developer/Web Developer <img src="https://media.giphy.c
 - 🌱 I’m currently learning Firebase, MongoDB, Next.js, Typescript.
 - 👯 I’m looking to collaborate on React apps/websites.
 - 📫 How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-- ⚡ Interests: I love board games🎲 (I have around 200 of them), crime books📖 (I love paper books, but Kindle is life saving), video games🎮 (PS5, Nintendo Switch) and listening to crime/tech podcasts🎧.
+- ⚡ Interests: I love board games🎲 (I have around 200 of them), crime books📖 (I love paper books, but Kindle is life changing), video games🎮 (PS5, Nintendo Switch) and listening to crime/tech podcasts🎧 (Crime Junkie, Serial Killers, Darknet Diaries, Back to work, Lex Fridman Podcast).
 
 ---
 
