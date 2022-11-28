@@ -21,7 +21,9 @@ I am a Junior Full Stack Developer/Web Developer <img src="https://media.giphy.c
 - 🔭 I’m currently working on react landing page for a start-up company.
 - 🌱 I’m currently learning Node.js with Nest.js and MongoDB, Next.js, Typescript.
 - 👯 I’m looking to collaborate on React apps/websites.
-- 📫 How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- 📫 How to reach me:   <a href="https://www.linkedin.com/in/dorota-b-304064229/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 - ⚡ Interests: I love board games🎲 (I have around 200 of them), crime books📖 (I love paper books, but Kindle is life changing), video games🎮 (PS5, Nintendo Switch) and listening to crime/tech podcasts🎧 (Crime Junkie, Serial Killers, Darknet Diaries, Back to work, Lex Fridman Podcast).
 
 ---
